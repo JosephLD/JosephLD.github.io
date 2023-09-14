@@ -3,6 +3,10 @@ body {
     color: hsla(60, 100%, 97%, 1);
 }
 
+h1 {
+    text-align: center;
+}
+
 a {
     color: hsla(59, 100%, 57%, 1);
 }
